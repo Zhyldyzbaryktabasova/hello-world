@@ -1,0 +1,11 @@
+.Person {
+  max-width: 200px;
+  float: left;
+  margin: 15px 10px;
+  border-radius:10px;
+  padding: 15px 20px;
+  box-shadow: 0 0 10px black;
+}
+.Person h2 {
+  coloor:tomato;
+}
